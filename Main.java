@@ -16,7 +16,7 @@ class Main{
           dwight();
           break;
         case 3:
-          timmy();
+          timmy();//jocelyn
           break;
           default:
           System.out.println("Invalid choice");
