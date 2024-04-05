@@ -17,3 +17,4 @@ if (name == null){
     System.out.println("I cant find the name of the character you entered");
   }
 }}
+//Alivia was here
